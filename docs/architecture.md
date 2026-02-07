@@ -6,7 +6,7 @@ Short description of the product: A cloud-based instant messaging app with end-t
 ##Main components
 ![Telegram Component Diagram](../docs/diagrams/out/telegram/component-diagram/Component%20Diagram.svg)
 
-PlantUML code: ../../../docs/diagrams/src/telegram/component-diagram/component-diagram.puml
+PlantUML code: ![Telegram Component Diagram Code](../docs/diagrams/src/telegram/component-diagram.puml)
 
 Selected components:
 1. MTProto Gateway (DC Entry)
