@@ -25,7 +25,7 @@ Selected components:
    Orchestrates end-to-end encrypted (E2EE) secret chats using client-side key exchange; bypasses cloud storage and relies on direct peer-to-peer or relayed encrypted payloads.
 
 ##Data flow
-![Telegram Media Message Flow (Upload & Propagate)](https://github.com/Fedos113/lab-01-fork_fedor/blob/main/docs/diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg)
+![Telegram Media Message Flow (Upload & Propagate)](../../docs/diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg)
 
 PlantUML code: ../../../docs/diagrams/src/telegram/sequence-diagram/media-message-flow.puml
 
@@ -42,7 +42,7 @@ Components involved:
 Data exchanged: file ID, peer ID, session token, message metadata, sequence number.
 
 ##Deployment
-![Telegram Deployment Diagram (Physical View)]([../../../docs/diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg](https://github.com/Fedos113/lab-01-fork_fedor/blob/main/docs/diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg))
+![Telegram Deployment Diagram (Physical View)](../../docs/diagrams/out/telegram/sequence-diagram/Sequence%20Diagram.svg)
 
 PlantUML code: ../../../docs/diagrams/src/telegram/deployment-diagram/deployment-diagram.puml
 
