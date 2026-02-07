@@ -23,7 +23,7 @@ Selected components:
 
 5. Secret Chat Relay
    Orchestrates end-to-end encrypted (E2EE) secret chats using client-side key exchange; bypasses cloud storage and relies on direct peer-to-peer or relayed encrypted payloads.
-
+done
 ##Data flow
 ![Telegram Media Message Flow (Upload & Propagate)](../docs/diagrams/out/telegram/deployment-diagram/Deployment%20Diagram.svg)
 
@@ -56,3 +56,4 @@ Clients (mobile/desktop/web) connect to the Edge / Connection Layer (MTProto Gat
 ##Open questions
 1. How are secret chats actually routed—do they use the same MTProto Gateway, or a separate hardened relay path?
 2. What consistency model is used for the Sharded Chat DB during high-concurrency group messages (e.g., eventual vs. strong consistency)?
+
