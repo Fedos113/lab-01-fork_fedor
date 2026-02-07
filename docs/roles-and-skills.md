@@ -25,7 +25,7 @@
 
 ##Roles and responsibilities
 
-    -Backend engineer
+    -Backend engineer d
     -Designs, develops, and operates scalable backend services for real-time messaging, manages message routing, persistence, and integration with databases and caches 
     -www.rst.software
     -www.lycorp.co.jp
