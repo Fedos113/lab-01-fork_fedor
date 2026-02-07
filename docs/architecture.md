@@ -1,7 +1,7 @@
 ##Product Choice
 Product name: Telegram
 Link to the product's website: https://telegram.org
-Short description of the product: A cloud-based instant messaging app with end-to-end encryption for secret chats, supporting text, media, voice, and group communication across platforms.
+Short description of the product: A cloud-based instant messaging app with end-to-end encryption for secret chats, supporting text, media, voice, and group communication across platforms
 
 ##Main components
 ![Telegram Component Diagram](../docs/diagrams/out/telegram/component-diagram/Component%20Diagram.svg)
