@@ -50,7 +50,9 @@
     -yardstick.team
     -resources.workable.com
     .
+##My chosen role
 
+    Backend engineer
 ##Common skills across roles
 
     -Proficiency in programming languages (e.g., C++, Java/Kotlin, Swift, Python)
@@ -81,6 +83,12 @@
 ##Job market snapshot
 Skills that appear in several postings
 
+    https://innopolis.hh.ru/vacancy/130190875?query=Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&hhtmFrom=vacancy_search_list
+    https://innopolis.hh.ru/vacancy/130172404?query=Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&hhtmFrom=vacancy_search_list
+    https://innopolis.hh.ru/vacancy/130256772?query=Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&hhtmFrom=vacancy_search_list
+    https://innopolis.hh.ru/vacancy/129299244?query=Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&hhtmFrom=vacancy_search_list
+    https://innopolis.hh.ru/vacancy/130180204?query=Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&hhtmFrom=vacancy_search_list
+    https://innopolis.hh.ru/vacancy/130193365?query=Backend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA&hhtmFrom=vacancy_search_list
     Experience with high-load or distributed systems
     Proficiency in Go, Python, or C++
     Knowledge of PostgreSQL/Redis
